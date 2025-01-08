@@ -1,4 +1,4 @@
 
-target/
+data_pipeline/target/
 dbt_packages/
-logs/
+data_pipeline/logs/
